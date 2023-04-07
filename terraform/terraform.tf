@@ -2,7 +2,7 @@ terraform {
   cloud {
     organization = "demo-user"
     workspaces {
-      name = "ECS-using-Fargate-TF"
+      name = "terraform-ecs-fargate-complete"
     }
   }
 
